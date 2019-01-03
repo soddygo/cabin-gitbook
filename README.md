@@ -7,7 +7,7 @@
 ## gitbook文档访问
 互联网访问文档地址:
 
-    https://www.gitbook.com/join/soddy/-LVHHkRSYmsOoUabTWmX
+    https://soddy.gitbook.io/cabin-plugins/
 
 ## 本项目本地gitBook 使用
 
