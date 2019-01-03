@@ -8,6 +8,10 @@
 互联网访问文档地址:
 
     https://soddy.gitbook.io/cabin-plugins/
+    
+## 内网参考前端使用项目
+
+    git@gitlab.dmall.com:dmall-3pl-platform/privilege_3pl.git
 
 ## 本项目本地gitBook 使用
 
