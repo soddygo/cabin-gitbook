@@ -3,11 +3,11 @@
 ##截图
 效果图:
 
-![](../image/demo2.jpg)
+![](https://github.com/soddygo/cabin-gitbook/blob/master/image/demo2.jpg)
 
 remoteOption组件效果图:
 
-![](../image/demo1.jpg)
+![](https://github.com/soddygo/cabin-gitbook/blob/master/image/demo1.jpg)
 
 
 ## 用法
