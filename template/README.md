@@ -4,16 +4,40 @@
 * TableTemplate 后台管理用的CURD,带搜索条件,分页的table模板
 * TableInfoTemplate 查看某条详情数据的模板,一条详情下面对应多条明细信息的,待后面进一步优化改进.
 
-##目前支持的样式
-* text input文本框
-* textarea search搜索条件,会被当做input文本框展示
-* number input number类型文本框
-* options 单选,下拉chosen选择框
-* remoteOption 单选,请求后台服务获取选项,下拉chosen选择框
-* remoteMultiOption 多选,请求后台服务获取选项,下拉chosen选择框
-* radio radio选择框
-* time 在search搜索条件中,会被当做时间范围选择器(DatePick)展示
+##目前支持的FORM表单样式
+* text 
+```text
+    input文本框
+```
+* textarea 
+```text
+search搜索条件,会被当做input文本框展示
+```
+* number 
+```text
+input number类型文本框
+```
+* options 
+```text
+单选,下拉chosen选择框
+```
+* remoteOption 
+```text
+单选,请求后台服务获取选项,下拉chosen选择框
+```
+* remoteMultiOption 
+```text
+多选,请求后台服务获取选项,下拉chosen选择框
+```
+* radio 
+```text
+radio选择框
+```
+* time 
+```text
+在search搜索条件中,会被当做时间范围选择器(DatePick)展示
 
+```
 
 ## 使用方法核心
 
