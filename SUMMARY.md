@@ -8,4 +8,5 @@
     * [时间范围选择器-DatePick](plugins/DatePick.md)
     * [拟态框-Modal](plugins/Modal.md)
     * [树菜单-Tree](plugins/Tree.md)
+    * [搜索条件-SearchForm](plugins/VueSearchForm.md)
 
