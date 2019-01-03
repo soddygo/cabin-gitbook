@@ -48,6 +48,11 @@
    打包命令:
    
         npm run build3
+    
+   ### searchForm搜索条件表单 src/components/VueSearchForm.vue
+   打包命令:
+      
+           npm run build5
         
    ### 树 Tree 使用的三方插件,引入重新打包过的三方的插件和样式即可
    官方github地址,里面也有使用文档:
