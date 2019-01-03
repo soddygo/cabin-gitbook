@@ -1,6 +1,16 @@
 # Table模板
 
+##截图
+效果图:
 
+![](../image/demo2.jpg)
+
+remoteOption组件效果图:
+
+![](../image/demo1.jpg)
+
+
+## 用法
 HTML模板:
 
 ```html
