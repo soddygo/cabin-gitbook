@@ -49,7 +49,7 @@
    
         npm run build3
     
-   ### searchForm搜索条件表单 src/components/VueSearchForm.vue
+   ### 搜索条件表单 src/components/VueSearchForm.vue
    打包命令:
       
            npm run build5
