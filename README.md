@@ -4,12 +4,16 @@
 ##介绍
 本文档使用gitbook编写,下载此项目,项目根目录,需要用node安装gitbook命令,然后运行命令:gitbook server,然后根据提示打开浏览器查看文档.
 
+## gitbook文档访问
+互联网访问文档地址:
 
-## 本项目gitBook 使用
+    https://www.gitbook.com/join/soddy/-LVHHkRSYmsOoUabTWmX
+
+## 本项目本地gitBook 使用
 
 安装gitbook:
 
-    npm install -g gitbook
+    npm install -g gitbook-cli
         
 进入本项目根目录,启动服务:
 
