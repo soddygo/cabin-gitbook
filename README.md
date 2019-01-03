@@ -11,6 +11,10 @@
 
 ## 本项目本地gitBook 使用
 
+本文档在github上的项目地址:
+
+    https://github.com/soddygo/cabin-gitbook
+
 安装gitbook:
 
     npm install -g gitbook-cli
