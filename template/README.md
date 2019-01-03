@@ -19,23 +19,10 @@
 
 ```javascript
 var paramOption = [
-                {
-                    //最少参数字段,其他字段可以默认
-                    code: "id",
-                    name: "用户id",
-                    viewType: "text",
-                    display: "01100",
-
-                },
-                {
+                { //最少参数字段,其他字段有默认值
                     code: "userName",
                     name: "用户姓名",
-                    dataType: "String",
                     viewType: "text",
-                    default: "",
-                    options: [],
-                    display: "11111",
-                    validate: "required"
                 }, {
                     code: "loginNo",
                     name: "账号",
@@ -60,7 +47,7 @@ var paramOption = [
                     default: "",
                     options: [],
                     display: "00111",
-                    validate: "email"
+                    validate: "required|email"
                 },
                 {
                     code: "carrierName",
